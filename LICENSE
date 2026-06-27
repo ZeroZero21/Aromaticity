@@ -1,0 +1,277 @@
+# LICENSE
+
+## 芳香性预印本仓库版权与使用许可声明
+
+本仓库中的预印本论文、方法框架、实验记录、文字内容、图表、结构设计及相关附件（以下简称“本作品”），除另有说明外，著作权及相关权利均归原作者所有。
+
+在遵守本许可声明的前提下，任何个人、团队、机构或平台均可使用本作品。
+
+---
+
+## 一、允许的使用范围
+
+在保留原始作者署名并不构成盗用、冒用或虚假原创声明的前提下，允许进行以下使用：
+
+1. **阅读、下载、保存与分享**  
+   可在个人、研究、教学、交流、展示或存档目的下阅读、下载、保存、复制和分享本作品。
+
+2. **研究与论文引用**  
+   可将本作品用于学术研究、课程作业、论文写作、综述撰写、评论分析、方法比较及其他学术用途。  
+   但使用时应当以适当方式注明来源，不得隐去原作者贡献。
+
+3. **商业用途**  
+   允许将本作品用于商业环境、商业研究、商业分析、商业咨询、商业产品参考、商业培训或其他商业相关用途。  
+   但商业使用不意味着使用者获得本作品的著作权，也不意味着可以将本作品冒充为其原创成果。
+
+4. **合理引用与介绍**  
+   允许对本作品的部分内容进行合理引用、摘要介绍、评论说明、方法讨论或公开推荐，但应明确标注来源。
+
+5. **基于本作品进行后续研究或发展**  
+   允许在研究、分析、讨论或应用中参考本作品提出进一步观点、模型、扩展方案或实践方法。  
+   但不得抹除本作品的原始来源，不得将本作品本身或其核心内容直接包装为自己的原创首发成果。
+
+6. **实验复现**  
+   本作品公开了完整的实验范式与辩论记录，任何研究者均可依据本文描述的方法独立复现实验。复现结果可独立发表，但应引用本作品作为方法来源。
+
+---
+
+## 二、禁止的行为
+
+无论是否用于商业目的，以下行为均被明确禁止：
+
+1. **盗用、冒用或虚假署名**  
+   不得直接或变相将本作品全部或部分内容署为自己原创，或以任何方式使他人误以为本作品由使用者本人独立创作。
+
+2. **删除来源后重新发布**  
+   不得移除作者信息、来源信息、版本信息或引用信息后，再以“原创作品”“自有成果”或类似名义重新发布。
+
+3. **歪曲原创归属**  
+   不得通过重新排版、局部改写、翻译、摘编、拼接、二次包装等方式，掩盖本作品来源，并声称其核心思想、框架或表达为使用者独立原创。
+
+4. **误导性宣传**  
+   不得利用本作品进行虚假、误导或欺骗性宣传，包括但不限于宣称已获得作者背书、授权认证、官方合作关系，除非确有明确书面许可。
+
+5. **侵犯作者合法权益的其他行为**  
+   不得实施任何违反著作权法、学术伦理、诚信原则或其他相关法律规范的行为。
+
+---
+
+## 三、署名与引用要求
+
+凡公开使用、传播、引用、转载、介绍、收录或基于本作品开展研究的，原则上应满足以下要求：
+
+1. **保留作者信息**  
+   应尽可能保留原作者姓名、项目名称、作品标题、版本信息及发布链接。
+
+2. **明确标注来源**  
+   在引用、转载或介绍时，应以清晰可见的方式标注本作品来源。  
+   例如可标注为：  
+   - 作者：ZhiZhanXu (ZeroZero)
+   - 项目：Aromaticity of Large Language Models
+   - 文档：大语言模型的芳香性 V1 预印本论文
+   - 来源：GitHub 仓库链接
+
+3. **不得暗示原创归属转移**  
+   即使进行了整理、摘录、翻译、格式修改或局部改写，也不得暗示本作品原创归属于使用者。
+
+4. **学术使用建议规范引用**  
+   若用于论文、报告、课程作业、综述、研究计划或正式出版物，建议按照相应学术规范提供完整引用信息。
+
+---
+
+## 四、关于改编、翻译与衍生使用
+
+1. 允许基于本作品进行介绍性整理、评论分析、研究讨论、翻译说明或应用性延展。  
+2. 但任何改编、翻译、重组、摘要、再表达或衍生版本，均不得掩盖原作品来源。  
+3. 衍生内容中如包含本作品的核心思想、框架、结构、图表或大段表达，应明确说明其与原作品之间的关系。  
+4. 不得将改编版、翻译版或衍生版直接宣称为完全独立、与原作品无关的原创首发成果。
+
+---
+
+## 五、免责声明
+
+1. 本作品按“当前状态”提供，不附带任何明示或默示担保。  
+2. 作者不保证本作品在任何特定场景下完全适用，也不保证其内容不存在疏漏、错误或后续修订的可能。  
+3. 使用者应自行判断本作品是否适合其研究、教学、产品、商业、决策或其他用途，并自行承担由此产生的风险与责任。  
+4. 因使用、引用、改编、传播或依赖本作品而产生的任何直接或间接后果，原则上由使用者自行负责。
+
+---
+
+## 六、权利保留
+
+1. 除本声明明确允许的权利外，作者保留与本作品有关的一切其他权利。  
+2. 作者有权对本许可声明进行更新、修订或补充，并可随项目版本变化发布新的说明文本。  
+3. 对不同文件、附录、图表、翻译版本或后续版本，作者可另行附加更具体的版权与使用说明。
+
+---
+
+## 七、简明理解版
+
+你可以：
+
+- 阅读
+- 下载
+- 分享
+- 引用
+- 用于研究
+- 用于论文
+- 用于商业用途
+- 复现实验
+
+但你不可以：
+
+- 盗用
+- 去掉作者信息后当成自己的
+- 冒充原创
+- 用改写、翻译、重排版等方式掩盖原始来源
+- 让别人误以为这是你独立提出的成果
+
+---
+
+## 八、联系与说明
+
+如需就授权范围、合作使用、特殊转载、正式出版、商用集成或其他未尽事项进行确认，请联系原作者。
+
+---
+
+**原作者保留本作品的原创署名权及相关合法权益。**
+
+---
+
+# LICENSE
+
+## Copyright and Terms of Use for the Aromaticity Preprint Repository
+
+Unless otherwise stated, all preprint papers, methodological frameworks, experimental records, written content, figures, structural designs, and related supplementary materials in this repository (collectively, the "Work") are the intellectual property of the original author(s), who retain copyright and all related rights.
+
+Any individual, team, institution, or platform may use the Work, provided that such use complies with the terms set forth in this License.
+
+---
+
+## 1. Permitted Uses
+
+Subject to proper attribution and provided that no plagiarism, misappropriation, false authorship claim, or misleading representation is involved, the following uses are permitted:
+
+1. **Reading, downloading, storing, and sharing**  
+   The Work may be read, downloaded, stored, copied, and shared for personal, research, educational, communication, presentation, or archival purposes.
+
+2. **Research and academic citation**  
+   The Work may be used in academic research, coursework, paper writing, literature reviews, commentary, comparative methodological analysis, and other scholarly activities.  
+   Proper acknowledgment of the source should be provided, and the original author's contribution must not be concealed.
+
+3. **Commercial use**  
+   The Work may be used in commercial contexts, including but not limited to commercial research, commercial analysis, consulting, product reference, professional training, and other business-related activities.  
+   However, commercial use does not transfer copyright ownership, nor does it permit anyone to present the Work as their own original creation.
+
+4. **Reasonable quotation and introduction**  
+   Portions of the Work may be reasonably quoted, summarized, introduced, reviewed, discussed, or recommended publicly, provided that the source is clearly identified.
+
+5. **Further research and development based on the Work**  
+   The Work may be used as a basis for further research, analysis, discussion, applications, extensions, or practical development.  
+   However, users may not erase or obscure the original source, nor package the Work itself or its core content as their own original first publication or independently originated contribution.
+
+6. **Experimental replication**  
+   This Work publicly discloses the full experimental paradigm and debate records. Any researcher may independently replicate the experiment following the methods described herein. Replication results may be published independently, provided that this Work is cited as the methodological source.
+
+---
+
+## 2. Prohibited Conduct
+
+Regardless of whether the use is commercial or non-commercial, the following actions are strictly prohibited:
+
+1. **Plagiarism, misappropriation, or false attribution**  
+   No one may claim, directly or indirectly, that the Work or any substantial part of it is their own original creation, nor may they present it in a way that misleads others into believing it was independently created by them.
+
+2. **Re-publication after removing attribution**  
+   No one may remove the author information, source information, version information, or citation information and then republish the Work as an "original work," "self-owned result," or under any similar misleading designation.
+
+3. **Distortion of original authorship**  
+   No one may obscure the origin of the Work through reformatting, partial rewriting, translation, excerpting, recombination, repackaging, or any similar method, and then claim that its core ideas, framework, or expression are independently original to them.
+
+4. **Misleading promotion or endorsement claims**  
+   The Work may not be used in any false, misleading, or deceptive promotion, including but not limited to claims that the user has received the author's endorsement, certification, or official partnership, unless such authorization has been explicitly granted in writing.
+
+5. **Other conduct infringing the lawful rights of the author**  
+   Any conduct that violates copyright law, academic ethics, principles of honesty and integrity, or other applicable legal or normative standards is prohibited.
+
+---
+
+## 3. Attribution and Citation Requirements
+
+Anyone who publicly uses, distributes, cites, reproduces, introduces, archives, or builds upon the Work should, in principle, comply with the following requirements:
+
+1. **Retain author information**  
+   Users should retain, where reasonably possible, the original author name, project name, work title, version information, and publication link.
+
+2. **Clearly indicate the source**  
+   When quoting, reproducing, or introducing the Work, users should clearly and visibly identify the source.  
+   For example:  
+   - Author: ZhiZhanXu (ZeroZero)  
+   - Project: Aromaticity of Large Language Models  
+   - Document: Aromaticity of Large Language Models V1 Preprint Paper  
+   - Source: GitHub repository link
+
+3. **No implication of transferred authorship**  
+   Even if the Work has been reorganized, excerpted, translated, reformatted, or partially rewritten, users must not imply that the originality or authorship of the Work has been transferred to them.
+
+4. **Recommended formal citation in academic use**  
+   If the Work is used in papers, reports, coursework, reviews, research proposals, or formal publications, users are encouraged to provide a complete citation according to the relevant academic standard.
+
+---
+
+## 4. Adaptation, Translation, and Derivative Use
+
+1. The Work may be used for introductory reorganization, commentary, analytical discussion, translation, explanatory purposes, or application-oriented extension.  
+2. However, any adaptation, translation, restructuring, summary, re-expression, or derivative version must not conceal the source of the original Work.  
+3. If derivative content includes the core ideas, framework, structure, figures, or substantial textual expression of the Work, the relationship between the derivative content and the original Work must be clearly stated.  
+4. No adapted, translated, or derivative version may be presented as a completely independent original first publication unrelated to the original Work.
+
+---
+
+## 5. Disclaimer
+
+1. The Work is provided "as is," without any express or implied warranty.  
+2. The author does not guarantee that the Work is fully suitable for any particular purpose, nor that it is free from omissions, errors, or the possibility of later revision.  
+3. Users are solely responsible for determining whether the Work is appropriate for their research, teaching, products, business, decision-making, or other purposes, and they assume all associated risks and responsibilities.  
+4. Any direct or indirect consequences arising from the use, citation, adaptation, distribution, or reliance upon the Work shall, in principle, be the responsibility of the user.
+
+---
+
+## 6. Reservation of Rights
+
+1. Except for the rights expressly granted under this License, all other rights relating to the Work are reserved by the author.  
+2. The author reserves the right to update, revise, or supplement this License and may publish revised versions as the project evolves.  
+3. Different files, appendices, figures, translated versions, or future versions may be accompanied by more specific copyright or usage terms.
+
+---
+
+## 7. Plain-Language Summary
+
+You may:
+
+- read
+- download
+- share
+- cite
+- use the Work for research
+- use the Work in academic papers
+- use the Work for commercial purposes
+- replicate the experiment
+
+You may not:
+
+- plagiarize it
+- remove author/source information and present it as your own
+- falsely claim authorship
+- conceal the original source through rewriting, translation, reformatting, or repackaging
+- mislead others into believing that the Work was independently created by you
+
+---
+
+## 8. Contact and Further Clarification
+
+For questions regarding authorization scope, cooperative use, special republication, formal publication, commercial integration, or other matters not explicitly covered here, please contact the original author.
+
+---
+
+**The original author reserves the right of original authorship attribution and all other lawful rights related to the Work.**
