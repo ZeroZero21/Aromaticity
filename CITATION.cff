@@ -4,10 +4,10 @@ title: "Aromaticity of Large Language Models: Stable Cognitive Tendencies and th
 authors:
   - family-names: "Xu"
     given-names: "Zhizhan"
-    alias: "ZeroZero"
+      alias: "XC"
 version: "v1"
 date-released: 2026-06-28
-repository-code: "https://github.com/ZeroZero21/Aromaticity"
-url: "https://github.com/ZeroZero21/Aromaticity"
+repository-code: "https://github.com/XC000XC/Aromaticity"
+url: "https://github.com/XC000XC/Aromaticity"
 abstract: "This paper proposes the concept of Model Aromaticity — the degree of stubbornness exhibited by large language models in complex judgments due to their stable cognitive tendencies. Through a reproducible five-stage debate paradigm, the study demonstrates that LLMs exhibit 'contextual compliance yet dispositional retention' under rebuttal pressure. Preprint paper and related project materials for the Aromaticity project."
 license: "Custom"
