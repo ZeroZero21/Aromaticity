@@ -25,7 +25,7 @@
 本仓库内容为芳香性项目的公开版本，后续可能持续更新。本工作系作者独立研究，不代表任何机构观点。
 
 ## 联系方式
-- 电子邮箱：zerozero21@163.com
+- 电子邮箱：3979310067@qq.com
 - QQ号码：3979310067
 
 ---
@@ -55,5 +55,5 @@ This repository is used to publicly share research papers, experimental records,
 The contents of this repository are part of the public release of the Aromaticity project and may continue to be updated in the future. This work is conducted independently by the author and does not represent the views of any institution.
 
 ## Contact
-- Email: zerozero21@163.com
+- Email: 3979310067@qq.com
 - QQ number: 3979310067
